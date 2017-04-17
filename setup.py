@@ -10,7 +10,7 @@ from sphinx_rtd_theme import __version__
 
 setup(
     name='sphinx_rtd_theme',
-    version=__version__,
+    version=__version__ + "njs",
     url='https://github.com/rtfd/sphinx_rtd_theme/',
     license='MIT',
     author='Dave Snider',
